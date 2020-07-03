@@ -11,7 +11,7 @@ namespace anemic
             // Criar objeto cliente
             var cliente = new Cliente();
             cliente.Nome = nome;
-            cliente.Email = email;
+            cliente.Email = "";
             cliente.Tipo = TipoCliente.Normal;
             
             // Gravar no BD

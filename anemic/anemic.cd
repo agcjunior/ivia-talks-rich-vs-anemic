@@ -7,8 +7,8 @@
       <FileName>Aluguel.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
-      <Property Name="Filme" />
       <Property Name="Cliente" />
+      <Property Name="Filme" />
     </ShowAsAssociation>
   </Class>
   <Class Name="anemic.Cliente">
